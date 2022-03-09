@@ -12,3 +12,4 @@
   * ``RaceWeather.java``
   * ``RaceCar.java`` 
 * The .doc in this project describes the coursework.
+* You clean code and easy your solution to maintain will be graded. This is a link to a style guide that will be used [https://stgit.dcs.gla.ac.uk/DerekSomerville/javagetstarted/-/wikis/home/Style_Guide](https://stgit.dcs.gla.ac.uk/DerekSomerville/javagetstarted/-/wikis/home/Style_Guide)
