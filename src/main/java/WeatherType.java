@@ -1,5 +1,5 @@
 public enum WeatherType {
-    DRY, WET, MISTY;
+    DRY, MISTY, WET;
 
     public WeatherType next(){
         return values()[(ordinal()+1)%3];
